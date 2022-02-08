@@ -18,3 +18,7 @@ p {
   display: block;
   margin: 30px auto;
 }
+
+.container {
+  text-align: center;
+}
