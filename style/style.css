@@ -1,12 +1,13 @@
 body {
   display: block;
-  background: #ffc107;
+  background: #ecdfa5;
   margin: 10px;
 }
 
 h1 {
   text-align: center;
   color: black;
+  font-size: 55px;
 }
 
 p {
